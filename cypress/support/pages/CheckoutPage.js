@@ -13,7 +13,7 @@ class CheckoutPage {
   }
 
   verifySuccessMessage() {
-    cy.get('[data-test="title"]')
+    cy.get('[data-test="complete-header"]')
       .should("be.visible")
       .and("have.text", "Thank you for your order!");
   }
