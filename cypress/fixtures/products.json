@@ -1,0 +1,20 @@
+{
+  "backpack": {
+    "id": "sauce-labs-backpack"
+  },
+  "bikeLight": {
+    "id": "sauce-labs-bike-light"
+  },
+  "boltTShirt": {
+    "id": "sauce-labs-bolt-t-shirt"
+  },
+  "fleeceJacket": {
+    "id": "sauce-labs-fleece-jacket"
+  },
+  "onesie": {
+    "id": "sauce-labs-onesie"
+  },
+  "redShirt": {
+    "id": "test.allthethings()-t-shirt-(red)"
+  }
+}
