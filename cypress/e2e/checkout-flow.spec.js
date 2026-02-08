@@ -21,6 +21,7 @@ describe("Checkout Flow", ()=> {
 
         CheckoutPage.navigateToCart();
         CheckoutPage.checkoutItems();
+        CheckoutPage.verifySuccessMessage();
     })
 
     it("should complete checkout flow on mobile", () => {
@@ -32,5 +33,6 @@ describe("Checkout Flow", ()=> {
 
         CheckoutPage.navigateToCart();
         CheckoutPage.checkoutItems();
+        CheckoutPage.verifySuccessMessage();
     })
 })
